@@ -24,17 +24,6 @@
       "id": 73930389
     },
     {
-      "cityName": "Lincoln",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-02-22T09:18:54.000Z",
-      "position": {
-        "lat": "40.78054143186033",
-        "lng": "-96.7236328125"
-      },
-      "id": 73930390
-    },
-    {
       "cityName": "Hanoi",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
@@ -44,6 +33,17 @@
         "lng": "105.89035034179689"
       },
       "id": 73930391
+    },
+    {
+      "cityName": "Ha Giang",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-02-14T16:16:59.000Z",
+      "position": {
+        "lat": "22.771116581083135",
+        "lng": "104.95788574218751"
+      },
+      "id": 73930392
     }
   ]
 }
