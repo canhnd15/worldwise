@@ -13,51 +13,37 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Phoenix",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-12T09:13:18.307Z",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "33.37641235124679",
+        "lng": "-112.12646484375001"
       },
-      "id": 17806751
+      "id": 73930389
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Lincoln",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-02-22T09:18:54.000Z",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "40.78054143186033",
+        "lng": "-96.7236328125"
       },
-      "id": 98443197
+      "id": 73930390
     },
     {
       "cityName": "Hanoi",
-      "country": "Vietnam",
-      "emoji": "🇻🇳",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 21.0285,
-        "lng": 105.8542
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Ha Hoa",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-02-11T18:20:38.080Z",
+      "date": "2024-02-12T09:19:45.684Z",
       "position": {
-        "lat": "21.48374090716327",
-        "lng": "105.08148193359375"
+        "lat": "21.06399706324597",
+        "lng": "105.89035034179689"
       },
-      "id": 98443199
+      "id": 73930391
     }
   ]
 }

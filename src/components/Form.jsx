@@ -49,12 +49,12 @@ function Form() {
           );
           const data = await res.json();
 
-          if (!data.countryCode)
-            throw new Error(
-              "Hey, that doesn't seen to be a city. Click somewhere else, pls!"
-            );
-
           if (data !== null && data !== undefined) {
+            if (!data.countryCode)
+              throw new Error(
+                "Hey, that doesn't seen to be a city. Click somewhere else, pls!"
+              );
+
             setCityName(data.city || data.locality);
             setCountry(data.countryName || data.countryCode);
             setEmoji(convertToEmoji(data.countryCode));
