@@ -1,5 +1,7 @@
 import styles from "./NotFound.module.css";
 
+const BASE_URL = import.meta.env.VITE_BASE_URL;
+
 function NotFound() {
   return (
     <section className={styles.page_404}>
@@ -16,7 +18,7 @@ function NotFound() {
 
                 <p>the page you are looking for not avaible!</p>
 
-                <a href="http://localhost:5173/" className={styles.link_404}>
+                <a href={BASE_URL} className={styles.link_404}>
                   Go to Home
                 </a>
               </div>
